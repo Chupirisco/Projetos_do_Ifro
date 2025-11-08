@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\Atividade-3\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA4A2B1-8237-4996-9090-69C8BC5B402C}|WindowsFormsAppControleDeEstoque.csproj|c:\\users\\yurig\\onedrive\\\u00E1rea de trabalho\\atividade-3\\windowsformsappcontroledeestoque\\windowsformsappcontroledeestoque\\formulario\\cadastrar\\cadastrarprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA4A2B1-8237-4996-9090-69C8BC5B402C}|WindowsFormsAppControleDeEstoque.csproj|solutionrelative:formulario\\cadastrar\\cadastrarprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA4A2B1-8237-4996-9090-69C8BC5B402C}|WindowsFormsAppControleDeEstoque.csproj|C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\Atividade-3\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\formulario\\cadastrar\\cadastrarprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AA4A2B1-8237-4996-9090-69C8BC5B402C}|WindowsFormsAppControleDeEstoque.csproj|solutionrelative:formulario\\cadastrar\\cadastrarprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA4A2B1-8237-4996-9090-69C8BC5B402C}|WindowsFormsAppControleDeEstoque.csproj|C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\Atividade-3\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\formulario\\alterar\\alterarsecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA4A2B1-8237-4996-9090-69C8BC5B402C}|WindowsFormsAppControleDeEstoque.csproj|solutionrelative:formulario\\alterar\\alterarsecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA4A2B1-8237-4996-9090-69C8BC5B402C}|WindowsFormsAppControleDeEstoque.csproj|C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\Atividade-3\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\formulario\\alterar\\alterarsecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AA4A2B1-8237-4996-9090-69C8BC5B402C}|WindowsFormsAppControleDeEstoque.csproj|solutionrelative:formulario\\alterar\\alterarsecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA4A2B1-8237-4996-9090-69C8BC5B402C}|WindowsFormsAppControleDeEstoque.csproj|C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\Atividade-3\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\contexto\\secaocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA4A2B1-8237-4996-9090-69C8BC5B402C}|WindowsFormsAppControleDeEstoque.csproj|solutionrelative:contexto\\secaocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA4A2B1-8237-4996-9090-69C8BC5B402C}|WindowsFormsAppControleDeEstoque.csproj|C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\Atividade-3\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\formulario\\alterar\\alterarcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA4A2B1-8237-4996-9090-69C8BC5B402C}|WindowsFormsAppControleDeEstoque.csproj|solutionrelative:formulario\\alterar\\alterarcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA4A2B1-8237-4996-9090-69C8BC5B402C}|WindowsFormsAppControleDeEstoque.csproj|C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\Atividade-3\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\formulario\\alterar\\alterarcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AA4A2B1-8237-4996-9090-69C8BC5B402C}|WindowsFormsAppControleDeEstoque.csproj|solutionrelative:formulario\\alterar\\alterarcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA4A2B1-8237-4996-9090-69C8BC5B402C}|WindowsFormsAppControleDeEstoque.csproj|C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\Atividade-3\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AA4A2B1-8237-4996-9090-69C8BC5B402C}|WindowsFormsAppControleDeEstoque.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\Atividade-3\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:18:31.011Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastrarProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\Atividade-3\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\Formulario\\Cadastrar\\CadastrarProdutos.cs",
+              "RelativeDocumentMoniker": "Formulario\\Cadastrar\\CadastrarProdutos.cs",
+              "ToolTip": "C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\Atividade-3\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\Formulario\\Cadastrar\\CadastrarProdutos.cs",
+              "RelativeToolTip": "Formulario\\Cadastrar\\CadastrarProdutos.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwEwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T22:11:41.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastrarProdutos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\Atividade-3\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\Formulario\\Cadastrar\\CadastrarProdutos.cs",
+              "RelativeDocumentMoniker": "Formulario\\Cadastrar\\CadastrarProdutos.cs",
+              "ToolTip": "C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\Formulario\\Cadastrar\\CadastrarProdutos.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\Formulario\\Cadastrar\\CadastrarProdutos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T22:11:40.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlterarCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\Atividade-3\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\Formulario\\Alterar\\AlterarCategoria.cs",
+              "RelativeDocumentMoniker": "Formulario\\Alterar\\AlterarCategoria.cs",
+              "ToolTip": "C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\Atividade-3\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\Formulario\\Alterar\\AlterarCategoria.cs",
+              "RelativeToolTip": "Formulario\\Alterar\\AlterarCategoria.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T03:07:06.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecaoContext.cs",
+              "DocumentMoniker": "C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\Atividade-3\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\Contexto\\SecaoContext.cs",
+              "RelativeDocumentMoniker": "Contexto\\SecaoContext.cs",
+              "ToolTip": "C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\Atividade-3\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\Contexto\\SecaoContext.cs",
+              "RelativeToolTip": "Contexto\\SecaoContext.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAUwG4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T03:04:47.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlterarSecao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\Atividade-3\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\Formulario\\Alterar\\AlterarSecao.cs",
+              "RelativeDocumentMoniker": "Formulario\\Alterar\\AlterarSecao.cs",
+              "ToolTip": "C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\Formulario\\Alterar\\AlterarSecao.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\Formulario\\Alterar\\AlterarSecao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T03:02:30.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlterarCategoria.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\Atividade-3\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\Formulario\\Alterar\\AlterarCategoria.cs",
+              "RelativeDocumentMoniker": "Formulario\\Alterar\\AlterarCategoria.cs",
+              "ToolTip": "C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\Formulario\\Alterar\\AlterarCategoria.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\Formulario\\Alterar\\AlterarCategoria.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:59:47.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlterarSecao.cs",
+              "DocumentMoniker": "C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\Atividade-3\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\Formulario\\Alterar\\AlterarSecao.cs",
+              "RelativeDocumentMoniker": "Formulario\\Alterar\\AlterarSecao.cs",
+              "ToolTip": "C:\\Users\\yurig\\OneDrive\\\u00C1rea de Trabalho\\Atividade-3\\WindowsFormsAppControleDeEstoque\\WindowsFormsAppControleDeEstoque\\Formulario\\Alterar\\AlterarSecao.cs",
+              "RelativeToolTip": "Formulario\\Alterar\\AlterarSecao.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIAwwEEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:59:35.274Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

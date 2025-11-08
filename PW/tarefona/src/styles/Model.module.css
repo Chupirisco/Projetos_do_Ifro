@@ -1,0 +1,103 @@
+.modalDeEdicao {
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  animation: fadeIn 0.3s ease forwards;
+}
+
+.modelContainer {
+  background-color: white;
+  margin: 10% auto;
+  padding: 0;
+  border-radius: 10px;
+  width: 90%;
+  max-width: 500px;
+  animation: sliderIn 0.3s ease forwards;
+}
+
+.modalCabecalho {
+  padding: 20px;
+  background: #f8f9fa;
+  border-bottom: 1px solid #e9ecef;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px 10px 0 0;
+}
+
+.modalCabecalho h3 {
+  margin: 0;
+  color: #6c757d;
+}
+
+.close {
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #6c757d;
+}
+
+.modalCorpo {
+  padding: 20px;
+}
+
+.modalCorpo input,
+.modalCorpo select {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  border: 1px solid #e9ecef;
+  border-radius: 6px;
+  font-size: 1rem;
+}
+
+.modalRodape {
+  padding: 20px;
+  background: #f8f9fa;
+  border-top: 1px solid #e9ecef;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  border-radius: 0 0 10px 10px;
+}
+
+.btnSalvarEdicao,
+.btnCancelar,
+.btnDeletar {
+  padding: 12px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.btnSalvarEdicao {
+  background: #007bff;
+  color: white;
+}
+
+.btnSalvarEdicao:hover {
+  background: #0069d9;
+}
+
+.btnCancelar {
+  background: #6c757d;
+  color: white;
+}
+
+.btnCancelar {
+  background: #5a6268;
+}
+
+.btnDeletar {
+  background: #dc3545;
+  color: white;
+}
+.btnDeletar:hover {
+  background: #c82333;
+}

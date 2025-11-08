@@ -1,0 +1,60 @@
+img[b-85yq48fomw] {
+    border-radius: 60%;
+    width: 200px;
+    align-items: center;
+    padding-block-end: 20px;
+}
+
+body[b-85yq48fomw] {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+.container[b-85yq48fomw] {
+    max-width: 900px;
+    margin: auto;
+    background: #fff;
+    padding: 30px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
+
+h1[b-85yq48fomw], h2[b-85yq48fomw] {
+    color: #2c3e50;
+}
+
+.section[b-85yq48fomw] {
+    margin-bottom: 25px;
+}
+
+    .section h2[b-85yq48fomw] {
+        border-bottom: 2px solid #3498db;
+        padding-bottom: 5px;
+        margin-bottom: 10px;
+    }
+
+.info-pessoal p[b-85yq48fomw], .experiencia p[b-85yq48fomw], .formacao p[b-85yq48fomw], .habilidades ul[b-85yq48fomw], .projetos ul[b-85yq48fomw] {
+    margin: 5px 0;
+}
+
+ul[b-85yq48fomw] {
+    padding-left: 20px;
+}
+
+.contato[b-85yq48fomw] {
+    margin-top: -200px;
+    font-size: 14px;
+}
+
+.nome[b-85yq48fomw] {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+    .nome h1[b-85yq48fomw] {
+        margin: 0;
+    }

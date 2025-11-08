@@ -1,0 +1,148 @@
+.listaTarefasContainer {
+  min-height: 300px;
+  padding: 30px;
+}
+
+.listaDeTarefasVazia {
+  text-align: center;
+  padding: 60px 20px;
+  color: #6c757d;
+}
+
+.icone {
+  font-size: 4rem;
+  margin-bottom: 20px;
+  opacity: 0.5;
+}
+
+.listaDeTarefasVazia h3 {
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+}
+
+/* ======================= */
+
+.taskItens {
+  background: white;
+  border: 1px solid #e9ecef;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.taskItens:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.tarefasCheckbox {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  accent-color: #4facfe;
+}
+
+.texto {
+  flex: 1;
+  font-size: 1.1rem;
+  line-height: 1.4;
+  word-break: break-word;
+}
+
+.prioridade {
+  padding: 5px 12px;
+  border-radius: 15px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.alta {
+  background: #ffebee;
+  color: #c62828;
+  border: 1px solid #ffcdd2;
+}
+
+.media {
+  background: #fff3e0;
+  color: #ef6c00;
+  border: 1px solid #ffcc02;
+}
+
+.baixa {
+  background: #e8f5e8;
+  color: #2e7d32;
+  border: 1px solid #c8e6c9;
+}
+
+.tarefasData {
+  font-size: 0.8rem;
+  color: #6c757d;
+  margin-left: 10px;
+}
+
+.acoes {
+  display: flex;
+  gap: 10px;
+}
+
+.acoes button {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.3s ease;
+}
+
+.btnEditar {
+  background: #e3f2fd;
+  color: #1976d2;
+}
+
+.btnEditar:hover {
+  background: #bbdefb;
+}
+
+.btnDeletar {
+  background: #ffebee;
+  color: #d32f2f;
+}
+
+.btnDeletar:hover {
+  background: #ffcdd2;
+}
+
+@media (max-width: 768px) {
+  .taskItens {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+
+  .acoes {
+    align-self: flex-end;
+  }
+}
+
+@media (max-width: 480px) {
+  .listaTarefasContainer {
+    padding: 20px;
+  }
+}
+
+.concluida {
+  opacity: 0.7;
+  background: #f8f9fa;
+}
+
+.concluida {
+  text-decoration: line-through;
+  color: #6c757d;
+}

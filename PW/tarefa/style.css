@@ -1,0 +1,138 @@
+body {
+  background-color: #f8f9fa;
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  overflow: hidden;
+  font-family: Arial, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+}
+
+img {
+  height: 10vh;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100vw;
+  height: 13vh;
+  background-color: #f2f2f2;
+  color: #5f6368;
+  z-index: 1;
+}
+
+h4 {
+  font-weight: normal;
+  padding: 10px 7px;
+  margin: 0;
+}
+
+.div1 {
+  height: 35px;
+  border: 1px solid #c2c2c2;
+}
+
+.div2 {
+  height: calc(13vh - 35px);
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+}
+
+span {
+  padding-inline: 10px;
+}
+
+.busca {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+  padding: 10px 20px;
+  background-color: white;
+  width: 400px;
+  max-width: 90%;
+  margin: 50px auto;
+}
+
+.busca input[type="text"] {
+  flex: 1;
+  border: none;
+  outline: none;
+  font-size: 16px;
+}
+
+button, #botao, #botaoerro {
+  padding: 10px 20px;
+  font-size: 14px;
+  cursor: pointer;
+  background-color: #f8f9fa;
+  border: 1px solid rgba(0, 0, 0, 0.377);
+  border-radius: 10px;
+  transition: 0.2s;
+}
+
+button:hover, #botao:hover, #botaoerro:hover {
+  background-color: #e8eaed;
+}
+
+#botao, #botaoerro {
+  position: absolute;
+  height: 40px;
+  width: 135px;
+  left: 50vw;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+
+#botao {
+  top: 63vh;
+}
+
+#botaoerro {
+  top: 70vh;
+}
+
+#paginaerro {
+  display: none;
+  position: fixed;
+  top: 0; left: 0;
+  width: 100vw; height: 100vh;
+  background-color: #000;
+  color: #fff;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.error-screen h1 {
+  font-size: 60px;
+  margin: 0;
+}
+
+.error-screen p {
+  font-size: 20px;
+}
+
+.error-screen {
+  text-align: center;
+  padding: 20px;
+}
+
+#rickroll {
+  margin-top: 20px;
+  width: 360px;
+  transition: all 5s ease;
+  display: block;
+  margin: 20px auto;
+}
